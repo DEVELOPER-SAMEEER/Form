@@ -1,0 +1,89 @@
+{
+  "students": [
+    {
+      "date": "2026-08-01T12:33",
+      "fullName": "rdxhimanshu",
+      "fatherName": "abcd",
+      "motherName": "efg",
+      "classBranch": "it",
+      "enrollmentNo": "E2444133455wf",
+      "address": "effrfrfer",
+      "contactNo": "12334566",
+      "email": "uteutdt@gmail.com",
+      "id": "HLzYts5Qh7w"
+    },
+    {
+      "date": "2026-08-25T15:59",
+      "fullName": "sameer",
+      "fatherName": "ashok saroj",
+      "motherName": "suman devi",
+      "classBranch": "cse",
+      "enrollmentNo": "E24444735500060",
+      "address": "nakatapur aurai bhadohi",
+      "contactNo": "7860633489",
+      "email": "sameersaroj302@gmail.com",
+      "id": "AMq3PYkLNeg"
+    },
+    {
+      "date": "2026-08-25T16:02",
+      "fullName": "ss",
+      "fatherName": "aa",
+      "motherName": "ss",
+      "classBranch": "cse",
+      "enrollmentNo": "E244447",
+      "address": "asdf",
+      "contactNo": "785155548825",
+      "email": "example@gmail.com",
+      "id": "SkJKEkM3um8"
+    },
+    {
+      "date": "2026-08-25T16:06",
+      "fullName": "sameer",
+      "fatherName": "ashok",
+      "motherName": "suman",
+      "classBranch": "cse",
+      "enrollmentNo": "E2444",
+      "address": "nakatapur ",
+      "contactNo": "786033464",
+      "email": "example@gmail.com",
+      "id": "XP-JOJxbyQQ"
+    },
+    {
+      "date": "2026-08-27T12:09",
+      "fullName": "Shyam ",
+      "fatherName": "Umashankar ",
+      "motherName": "Sanju ",
+      "classBranch": "IT ",
+      "enrollmentNo": "E3783838838",
+      "address": "GHATAMPUR, AURAI, S R N BHADOHI",
+      "contactNo": "68959494994",
+      "email": "kumarshyam8543@gmail.com",
+      "id": "FaYSMkuEREo"
+    },
+    {
+      "date": "2026-08-27T12:09",
+      "fullName": "Shyam ",
+      "fatherName": "Umashankar ",
+      "motherName": "Sanju ",
+      "classBranch": "IT ",
+      "enrollmentNo": "E3783838838",
+      "address": "GHATAMPUR, AURAI, S R N BHADOHI",
+      "contactNo": "68959494994",
+      "email": "kumarshyam8543@gmail.com",
+      "id": "0CNT5UPHf3A"
+    },
+    {
+      "date": "2026-09-20T17:26",
+      "fullName": "sksjs",
+      "fatherName": "zksjsj",
+      "motherName": "ajsj",
+      "classBranch": "ajsj",
+      "enrollmentNo": "sksj",
+      "address": "aksj",
+      "contactNo": "76796446799",
+      "email": "susjeuwi@gmail.conlm",
+      "id": "KnOjdvEvxcY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
