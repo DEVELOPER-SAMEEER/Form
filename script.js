@@ -15,7 +15,7 @@ form.addEventListener('submit', function (e) {
         email: document.getElementById('email').value
     };
 const hostIp=window.location.hostname;
-    fetch('http://192.168.43.51:3000/students', {
+    fetch('http://localhost/students', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
