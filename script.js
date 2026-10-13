@@ -14,7 +14,6 @@ form.addEventListener('submit', function (e) {
         contactNo: document.getElementById('Contact').value,
         email: document.getElementById('email').value
     };
-const hostIp=window.location.hostname;
     fetch('http://localhost/students', {
         method: 'POST',
         headers: {
